@@ -1,8 +1,8 @@
-# Notas del showcase (internas)
+# Showcase notes (internal)
 
-- NO subir el PDF/whitepaper.
-- Mantener el texto como “concept summary” / “borrador”, porque el documento se va a cambiar.
-- Evitar lenguaje que se interprete como promoción de actividades ilegales.
-- Si se agregan imágenes/gráficos al showcase:
-  - usar mockups, diagramas genéricos y datos no sensibles.
-  - nada de llaves, URLs internas, esquemas de BD, endpoints, ni pantallazos con PII.
+- Do NOT upload the PDF/whitepaper.
+- Keep the wording as a “concept summary” / “draft” because the document will be changed.
+- Avoid language that could be interpreted as promoting illegal activity.
+- If adding images/graphics to the showcase:
+  - use mockups, generic diagrams, and non-sensitive data only.
+  - no keys, internal URLs, DB schemas, endpoints, or screenshots containing PII.
